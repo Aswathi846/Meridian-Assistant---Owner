@@ -85,7 +85,6 @@ def run_ablation_configuration(config_name, chunk_size, overlap, k_val, golden_s
             found_match = True
             is_refused = True
         else:
-            # Pass group tag in metadata or headers if supported, or handle per request tracking
             payload = {
                 "question": question, 
                 "top_k": k_val,
@@ -100,8 +99,6 @@ def run_ablation_configuration(config_name, chunk_size, overlap, k_val, golden_s
             
             for attempt in range(retries):
                 try:
-                    # Pass group as part of headers or query parameters if your API accepts tags, 
-                    # otherwise we log to Langfuse with group metadata explicitly below
                     response = requests.post(SEARCH_API_URL, json=payload, timeout=10)
                     
                     if response.status_code == 429:
@@ -210,8 +207,15 @@ def run_ablation_configuration(config_name, chunk_size, overlap, k_val, golden_s
 def main():
     parser = argparse.ArgumentParser(description="CI/CD Evaluation Gate Script - Group Breakdown")
     parser.add_argument("--offline", action="store_true", help="Run fast offline subset")
+    parser.add_argument(
+        "--fail-under-config", 
+        type=str, 
+        default="thresholds.yaml", 
+        help="Path to threshold configuration file for CI/CD gating"
+    )
     args = parser.parse_args()
 
+    print(f"Loading thresholds from config: {args.fail_under_config}")
     golden_set = load_golden_set("eval/golden.json")
 
     if args.offline:
