@@ -1,0 +1,9 @@
+{
+    "comment": "Approach chosen: Gate on the aggregate. Justification: Our D2 wobble test demonstrated high consistency (10/10 cases matched across multiple runs), making an aggregate pass rate threshold robust against rare stochastic variance while preventing a single flaky case from failing the entire build.",
+    "thresholds": {
+        "groundedness_pass_rate": 0.85,
+        "correctness_pass_rate": 0.85,
+        "appropriateness_pass_rate": 0.90,
+        "cohens_kappa_minimum": 0.80
+    }
+}

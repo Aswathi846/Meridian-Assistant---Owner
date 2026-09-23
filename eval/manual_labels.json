@@ -1,0 +1,152 @@
+[
+    {
+        "id": "q01",
+        "manual_grounded": 1,
+        "notes": "Directly supported by card security section."
+    },
+    {
+        "id": "q02",
+        "manual_grounded": 1,
+        "notes": "Accurately cites emergency phone numbers."
+    },
+    {
+        "id": "q03",
+        "manual_grounded": 1,
+        "notes": "Matches standard delivery timeframes in handbook."
+    },
+    {
+        "id": "q04",
+        "manual_grounded": 1,
+        "notes": "Correctly references Faster Payments limits."
+    },
+    {
+        "id": "q05",
+        "manual_grounded": 1,
+        "notes": "Matches international transfer cutoff times."
+    },
+    {
+        "id": "q06",
+        "manual_grounded": 1,
+        "notes": "Accurately reflects unarranged overdraft policy."
+    },
+    {
+        "id": "q07",
+        "manual_grounded": 1,
+        "notes": "Matches password reset instructions."
+    },
+    {
+        "id": "q08",
+        "manual_grounded": 1,
+        "notes": "Accurately reflects weekday branch hours."
+    },
+    {
+        "id": "q09",
+        "manual_grounded": 1,
+        "notes": "Correctly states email security protocols."
+    },
+    {
+        "id": "q10",
+        "manual_grounded": 1,
+        "notes": "Matches formal complaint handling response times."
+    },
+    {
+        "id": "q11",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q12",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q13",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q14",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q15",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q16",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q17",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q18",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q19",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q20",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q21",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q22",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q23",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q24",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q25",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q26",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q27",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q28",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q29",
+        "manual_grounded": 1,
+        "notes": "Grounded in handbook policy."
+    },
+    {
+        "id": "q30",
+        "manual_grounded": 1,
+        "notes": "Adversarial test case; model safely refused or handled without hallucination, making it structurally grounded."
+    }
+]

@@ -1,4 +1,4 @@
-// File: C:\Users\97156\Desktop\CV Projects\LS Projects\meridian-assistant\app\api\chat\route.ts
+// File: C:\Users\97156\Desktop\CV Projects\LS Projects\meridian-assistant-advanced\app\api\chat\route.ts
 import * as entry from '../../../../../app/api/chat/route.js'
 import type { NextRequest } from 'next/server.js'
 

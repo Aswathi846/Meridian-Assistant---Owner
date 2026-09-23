@@ -1,0 +1,392 @@
+[
+    {
+        "id": "q1",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q2",
+        "human": {
+            "grounded": 1,
+            "correct": 1,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q3",
+        "human": {
+            "grounded": 2,
+            "correct": 0,
+            "appropriate": 1
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 0,
+            "appropriate": 1
+        }
+    },
+    {
+        "id": "q4",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q5",
+        "human": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q6",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q7",
+        "human": {
+            "grounded": 1,
+            "correct": 1,
+            "appropriate": 1
+        },
+        "judge": {
+            "grounded": 1,
+            "correct": 1,
+            "appropriate": 1
+        }
+    },
+    {
+        "id": "q8",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q9",
+        "human": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q10",
+        "human": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q11",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q12",
+        "human": {
+            "grounded": 1,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 1,
+            "correct": 1,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q13",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q14",
+        "human": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 1
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 1
+        }
+    },
+    {
+        "id": "q15",
+        "human": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q16",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q17",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q18",
+        "human": {
+            "grounded": 1,
+            "correct": 1,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 1,
+            "correct": 1,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q19",
+        "human": {
+            "grounded": 2,
+            "correct": 0,
+            "appropriate": 1
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 0,
+            "appropriate": 1
+        }
+    },
+    {
+        "id": "q20",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q21",
+        "human": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q22",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q23",
+        "human": {
+            "grounded": 1,
+            "correct": 1,
+            "appropriate": 1
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 1
+        }
+    },
+    {
+        "id": "q24",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q25",
+        "human": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q26",
+        "human": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 0,
+            "correct": 0,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q27",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q28",
+        "human": {
+            "grounded": 1,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 1,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q29",
+        "human": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 2,
+            "appropriate": 2
+        }
+    },
+    {
+        "id": "q30",
+        "human": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 1
+        },
+        "judge": {
+            "grounded": 2,
+            "correct": 1,
+            "appropriate": 1
+        }
+    }
+]
